@@ -1,3 +1,3 @@
 # PythonLearning
 
-Учебные материалы по Python (2025)
+Learning Python 2025
